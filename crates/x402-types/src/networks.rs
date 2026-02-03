@@ -227,6 +227,11 @@ pub static KNOWN_NETWORKS: &[NetworkInfo] = &[
         namespace: "eip155",
         reference: "11142220",
     },
+    NetworkInfo {
+        name: "bepolia",
+        namespace: "eip155",
+        reference: "80069",
+    },
     // Solana Networks
     NetworkInfo {
         name: "solana",
